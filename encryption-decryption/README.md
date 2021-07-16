@@ -1,5 +1,5 @@
 ## Encryption / Decryption 
-This is not a perfect encryption code that would make the data trasfer safe. However, I think it perfectly illustrates how encryption works. It is simple, understandable, and usable
+This is not a perfect encryption code that would make the data transfer safe. However, I think it perfectly illustrates how encryption works. It is simple, understandable, and usable
 
 WHAT IT DOES:
 
