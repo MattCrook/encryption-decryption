@@ -1,0 +1,21 @@
+# visual studio code
+.vscode
+
+# testing
+/coverage
+/_tests
+
+# production
+/build
+/dist
+
+# misc
+.DS_Store
+.idea
+
+# environment file for runtime configuration
+.env
+.env.docker
+
+Pipfile.lock
+notes.txt*

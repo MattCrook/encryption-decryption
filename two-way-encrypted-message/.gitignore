@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache
+coverage.xml
+.pytest_cache/
+
+
+# pyenv
+.python-version
+Pipfile.lock
+
+__pypackages__/
+
+notes.txt
