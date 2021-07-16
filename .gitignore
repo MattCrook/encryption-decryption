@@ -17,5 +17,4 @@
 .env
 .env.docker
 
-Pipfile.lock
 notes.txt*
