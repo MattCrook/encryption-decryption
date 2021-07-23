@@ -9,3 +9,13 @@ To see project Readme, click [here](/two-way-encrypted-message/README.md)
 ### Encryption/ Decryption
 
 To see project Readme, click [here](encryption-decryption/README.md)
+
+## Dependencies:
+
+#### pyDH:
+
+https://pypi.org/project/pyDH/
+
+#### des:
+
+https://pypi.org/project/des/
